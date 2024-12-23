@@ -1,13 +1,13 @@
-Nama  : Ayu Jannati Ali Putri
-NIM   : 122140201
-Kelas : RB
+Nama  : Ayu Jannati Ali Putri<br>
+NIM   : 122140201<br>
+Kelas : RB<br>
 
-Ujian Akhir Semester Mata Kuliah Pemrograman Web 
-Tema Website : **Note**
+Ujian Akhir Semester Mata Kuliah Pemrograman Web<br>
+Tema Website : **Note**<br>
 
-## Catatan
-Username  : admin
-Password  : admin123
+## Catatan<br>
+Username  : admin<br>
+Password  : admin123<br>
 
 # Komponen Penilaian
 ## Bagian 1: Client-side Programming (Bobot: 30%)
